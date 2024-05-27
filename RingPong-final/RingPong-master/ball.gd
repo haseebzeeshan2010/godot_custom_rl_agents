@@ -7,7 +7,7 @@ func reset():
 	linear_velocity = Vector3(randf_range(-1.0,1.0),0.0,randf_range(-1.0,1.0))
 	_normalize_velocity()
 
-func _physics_process(_delta):
+func _physics_process(delta):
 	_normalize_velocity()
 	
 func _normalize_velocity():
