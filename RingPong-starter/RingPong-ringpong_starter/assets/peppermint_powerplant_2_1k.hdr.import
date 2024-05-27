@@ -3,24 +3,23 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df34a0hiq32m4"
-path.s3tc="res://.godot/imported/peppermint_powerplant_2_1k.hdr-1abde8f8b6a2aba20c2c69cfc8e72eba.s3tc.ctex"
-path.etc2="res://.godot/imported/peppermint_powerplant_2_1k.hdr-1abde8f8b6a2aba20c2c69cfc8e72eba.etc2.ctex"
+path.bptc="res://.godot/imported/peppermint_powerplant_2_1k.hdr-1abde8f8b6a2aba20c2c69cfc8e72eba.bptc.ctex"
 metadata={
-"imported_formats": ["s3tc", "etc2"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/peppermint_powerplant_2_1k.hdr"
-dest_files=["res://.godot/imported/peppermint_powerplant_2_1k.hdr-1abde8f8b6a2aba20c2c69cfc8e72eba.s3tc.ctex", "res://.godot/imported/peppermint_powerplant_2_1k.hdr-1abde8f8b6a2aba20c2c69cfc8e72eba.etc2.ctex"]
+dest_files=["res://.godot/imported/peppermint_powerplant_2_1k.hdr-1abde8f8b6a2aba20c2c69cfc8e72eba.bptc.ctex"]
 
 [params]
 
 compress/mode=2
+compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
-compress/bptc_ldr=0
 compress/normal_map=0
 compress/channel_pack=0
 mipmaps/generate=true
